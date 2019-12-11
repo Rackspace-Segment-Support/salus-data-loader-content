@@ -1,0 +1,10 @@
+{
+  "type": "TELEGRAF",
+  "version": "1.11.5",
+  "labels": {
+    "agent_discovered_arch": "amd64",
+    "agent_discovered_os": "linux"
+  },
+  "url": "https://dl.influxdata.com/telegraf/releases/telegraf-1.11.5-static_linux_amd64.tar.gz",
+  "exe": "./telegraf/telegraf"
+}
