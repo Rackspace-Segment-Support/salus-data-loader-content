@@ -1,0 +1,11 @@
+{
+  "agentType": "TELEGRAF",
+  "monitorType": "ssl",
+  "name": "create-source-list",
+  "description": "Converts a single value to the list required by telegraf",
+  "translatorSpec": {
+    "type": "scalarToArray",
+    "from": "target",
+    "to": "sources"
+  }
+}

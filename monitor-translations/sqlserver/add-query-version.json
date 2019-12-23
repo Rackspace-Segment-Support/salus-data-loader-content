@@ -1,0 +1,11 @@
+{
+  "agentType": "TELEGRAF",
+  "monitorType": "sqlserver",
+  "name": "add-query-version",
+  "description": "This field is required to use the v2 version of the plugin's collection queries",
+  "translatorSpec": {
+    "type": "replaceIntFieldValue",
+    "field": "query_version",
+    "value": 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "agentType": "TELEGRAF",
+  "monitorType": "mysql",
+  "name": "add-metric-version",
+  "description": "This field is required to use the v2 version of the plugin's collection queries",
+  "translatorSpec": {
+    "type": "replaceIntFieldValue",
+    "field": "metric_version",
+    "value": 2
+  }
+}

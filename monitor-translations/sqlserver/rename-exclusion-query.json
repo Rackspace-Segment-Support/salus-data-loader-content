@@ -1,0 +1,11 @@
+{
+  "agentType": "TELEGRAF",
+  "monitorType": "sqlserver",
+  "name": "rename-query-exclusions",
+  "description": "Jackson excludes fields that are camelCase and start with the word exclude. This allows us to bypass that without making configuration changes that affect all other jackson interactions.",
+  "translatorSpec": {
+    "type": "renameFieldKey",
+    "from": "queryExclusions",
+    "to": "exclude_queries"
+  }
+}

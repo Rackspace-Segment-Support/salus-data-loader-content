@@ -1,0 +1,11 @@
+{
+  "agentType": "TELEGRAF",
+  "monitorType": "dns",
+  "name": "rename-type",
+  "description": "The telegraf input plugin is named dns_query",
+  "translatorSpec": {
+    "type": "replaceStringFieldValue",
+    "field": "type",
+    "value": "dns_query"
+  }
+}
