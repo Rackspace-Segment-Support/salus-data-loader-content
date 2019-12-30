@@ -4,8 +4,7 @@
   "name": "rename-type",
   "description": "The telegraf input plugin is named x509_cert",
   "translatorSpec": {
-    "type": "replaceStringFieldValue",
-    "field": "type",
+    "type": "renameType",
     "value": "x509_cert"
   }
 }
