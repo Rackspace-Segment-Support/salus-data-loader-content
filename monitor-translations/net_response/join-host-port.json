@@ -1,0 +1,11 @@
+{
+  "agentType": "TELEGRAF",
+  "monitorType": "net_response",
+  "name": "join-host-port",
+  "description": "Combines the individual host and port fields into a single address",
+  "translatorSpec": {
+    "fromHost": "host",
+    "fromPort": "port",
+    "to": "address"
+  }
+}
