@@ -1,0 +1,11 @@
+{
+  "agentType": "TELEGRAF",
+  "monitorType": "net",
+  "name": "create-interface-list",
+  "description": "Converts a single value to the list required by telegraf",
+  "translatorSpec": {
+    "type": "scalarToArray",
+    "from": "interface",
+    "to": "interfaces"
+  }
+}

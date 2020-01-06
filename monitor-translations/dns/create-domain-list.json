@@ -1,0 +1,11 @@
+{
+  "agentType": "TELEGRAF",
+  "monitorType": "dns",
+  "name": "create-domain-list",
+  "description": "Converts a single value to the list required by telegraf",
+  "translatorSpec": {
+    "type": "scalarToArray",
+    "from": "domain",
+    "to": "domains"
+  }
+}

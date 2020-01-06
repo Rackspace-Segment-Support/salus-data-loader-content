@@ -1,0 +1,11 @@
+{
+  "agentType": "TELEGRAF",
+  "monitorType": "ping",
+  "name": "create-url-list",
+  "description": "Converts a single value to the list required by telegraf",
+  "translatorSpec": {
+    "type": "scalarToArray",
+    "from": "target",
+    "to": "urls"
+  }
+}
