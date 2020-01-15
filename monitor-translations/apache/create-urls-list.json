@@ -1,7 +1,7 @@
 {
   "agentType": "TELEGRAF",
   "monitorType": "apache",
-  "name": "create-urls-list",
+  "name": "apache-create-urls-list",
   "description": "Converts a single value to the list required by telegraf",
   "translatorSpec": {
     "type": "scalarToArray",
