@@ -1,6 +1,6 @@
 {
   "agentType": "TELEGRAF",
-  "monitorType": "http",
+  "monitorType": "apache",
   "name": "create-urls-list",
   "description": "Converts a single value to the list required by telegraf",
   "translatorSpec": {
