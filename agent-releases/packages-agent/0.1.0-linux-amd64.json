@@ -1,0 +1,10 @@
+{
+  "type": "PACKAGES",
+  "exe": "salus-packages-agent",
+  "labels": {
+    "agent_discovered_arch": "amd64",
+    "agent_discovered_os": "linux"
+  },
+  "version": "0.1.0",
+  "url": "https://github.com/racker/salus-packages-agent/releases/download/v0.1.0/salus-packages-agent_0.1.0_Linux_x86_64.tar.gz"
+}
