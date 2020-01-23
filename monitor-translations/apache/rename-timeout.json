@@ -1,7 +1,7 @@
 {
   "agentType": "TELEGRAF",
   "monitorType": "apache",
-  "name": "apache-rename-timeout",
+  "name": "rename-timeout",
   "description": "We use timeout to make things consistent across monitor types",
   "translatorSpec": {
     "type": "renameFieldKey",

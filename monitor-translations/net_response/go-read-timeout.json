@@ -1,0 +1,10 @@
+{
+  "agentType": "TELEGRAF",
+  "monitorType": "net_response",
+  "name": "go-read-timeout-value",
+  "description": "Convert from java duration string to a valid Go format for timestamp",
+  "translatorSpec": {
+    "type": "goDuration",
+    "field": "readTimeout"
+  }
+}
