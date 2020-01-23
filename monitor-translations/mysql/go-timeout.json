@@ -1,0 +1,10 @@
+{
+  "agentType": "TELEGRAF",
+  "monitorType": "mysql",
+  "name": "go-timeout-value",
+  "description": "Convert from java duration string to a valid Go format for timestamp",
+  "translatorSpec": {
+    "type": "goDuration",
+    "field": "intervalSlow"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "agentType": "TELEGRAF",
+  "monitorType": "dns",
+  "name": "timeout-in-seconds",
+  "description": "Convert from java duration string to raw seconds",
+  "translatorSpec": {
+    "type": "durationInSeconds",
+    "field": "timeout"
+  }
+}
