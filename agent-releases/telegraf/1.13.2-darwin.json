@@ -5,6 +5,6 @@
     "agent_discovered_arch": "amd64",
     "agent_discovered_os": "darwin"
   },
-  "url": "https://homebrew.bintray.com/bottles/telegraf-1.13.2.high_sierra.bottle.tar.gz",
+  "url": "https://homebrew.bintray.com/bottles/telegraf-1.13.2.mojave.bottle.tar.gz",
   "exe": "telegraf/1.13.2/bin/telegraf"
 }
