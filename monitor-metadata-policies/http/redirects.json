@@ -1,0 +1,9 @@
+{
+  "scope": "GLOBAL",
+  "subscope": null,
+  "targetClassName": "RemotePlugin",
+  "monitorType": "http",
+  "valueType": "BOOL",
+  "key": "followRedirects",
+  "value": "true"
+}

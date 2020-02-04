@@ -1,0 +1,9 @@
+{
+  "scope": "GLOBAL",
+  "subscope": null,
+  "targetClassName": "LocalPlugin",
+  "monitorType": "apache",
+  "valueType": "DURATION",
+  "key": "timeout",
+  "value": "PT10S"
+}

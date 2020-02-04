@@ -1,0 +1,9 @@
+{
+  "scope": "GLOBAL",
+  "subscope": null,
+  "targetClassName": "RemotePlugin",
+  "monitorType": "http",
+  "valueType": "DURATION",
+  "key": "timeout",
+  "value": "PT30S"
+}
