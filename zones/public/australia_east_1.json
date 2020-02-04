@@ -1,0 +1,11 @@
+{
+  "name": "public/australia_east_1",
+  "pollerTimeout": 300,
+  "provider": "Rackspace",
+  "providerRegion": "SYD2",
+  "sourceIpAddresses": [
+    "127.0.0.1/27"
+  ],
+  "state": "ACTIVE",
+  "public": true
+}
