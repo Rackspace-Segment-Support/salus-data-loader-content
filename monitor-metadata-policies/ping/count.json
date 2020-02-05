@@ -1,0 +1,9 @@
+{
+  "scope": "GLOBAL",
+  "subscope": null,
+  "targetClassName": "RemotePlugin",
+  "monitorType": "ping",
+  "valueType": "INT",
+  "key": "count",
+  "value": "5"
+}

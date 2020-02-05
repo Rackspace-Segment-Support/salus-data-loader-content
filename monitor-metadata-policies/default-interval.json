@@ -1,0 +1,8 @@
+{
+  "scope": "GLOBAL",
+  "subscope": null,
+  "targetClassName": "Monitor",
+  "valueType": "DURATION",
+  "key": "interval",
+  "value": "PT1M"
+}

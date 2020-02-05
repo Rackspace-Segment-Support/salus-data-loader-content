@@ -1,0 +1,9 @@
+{
+  "scope": "GLOBAL",
+  "subscope": null,
+  "targetClassName": "RemotePlugin",
+  "monitorType": "net_response",
+  "valueType": "DURATION",
+  "key": "timeout",
+  "value": "PT10S"
+}
