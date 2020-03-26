@@ -4,7 +4,8 @@
   "provider": "Rackspace",
   "providerRegion": "HKG1",
   "sourceIpAddresses": [
-    "127.0.0.1/27"
+    "2401:1800:7902:0001::/64",
+    "180.150.149.64/26"
   ],
   "state": "ACTIVE",
   "public": true

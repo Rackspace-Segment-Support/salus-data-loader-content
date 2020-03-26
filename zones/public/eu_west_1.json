@@ -4,7 +4,8 @@
   "provider": "Rackspace",
   "providerRegion": "LON3",
   "sourceIpAddresses": [
-    "127.0.0.1/27"
+    "2a00:1a48:7902:0001::/64",
+    "78.136.44.0/26"
   ],
   "state": "ACTIVE",
   "public": true

@@ -4,7 +4,8 @@
   "provider": "Rackspace",
   "providerRegion": "DFW3",
   "sourceIpAddresses": [
-    "127.0.0.1/27"
+    "2001:4800:7902:0001::/64",
+    "50.56.142.128/26"
   ],
   "state": "ACTIVE",
   "public": true
