@@ -7,5 +7,6 @@
     "type": "renameFieldKey",
     "from": "timeout",
     "to": "responseTimeout"
-  }
+  },
+  "order": 2
 }

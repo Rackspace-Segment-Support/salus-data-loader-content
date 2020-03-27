@@ -6,5 +6,6 @@
   "translatorSpec": {
     "type": "goDuration",
     "field": "timeout"
-  }
+  },
+  "order": 1
 }
