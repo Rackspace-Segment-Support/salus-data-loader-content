@@ -1,0 +1,7 @@
+{
+  "tenantId": "12345",
+  "accountType": "cloud",
+  "metadata": {
+    "description": "random account for local dev testing"
+  }
+}
