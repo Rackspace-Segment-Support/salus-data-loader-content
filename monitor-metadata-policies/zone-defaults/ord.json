@@ -1,0 +1,8 @@
+{
+  "scope": "GLOBAL",
+  "subscope": null,
+  "targetClassName": "RemotePlugin",
+  "valueType": "STRING_LIST",
+  "key": "monitoring_zones_ord",
+  "value": "public/us_central_1,public/us_central_2,public/us_east_1"
+}

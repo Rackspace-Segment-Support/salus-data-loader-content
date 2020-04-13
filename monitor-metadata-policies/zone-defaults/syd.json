@@ -1,0 +1,8 @@
+{
+  "scope": "GLOBAL",
+  "subscope": null,
+  "targetClassName": "RemotePlugin",
+  "valueType": "STRING_LIST",
+  "key": "monitoring_zones_syd",
+  "value": "public/australia_east_1,public/asia_east_1,public/us_central_1"
+}
