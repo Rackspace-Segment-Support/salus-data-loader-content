@@ -1,0 +1,7 @@
+{
+  "tenantId": "hybrid:test",
+  "accountType": "dedicated",
+  "metadata": {
+    "description": "random account for local dev testing"
+  }
+}
