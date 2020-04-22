@@ -3,6 +3,6 @@
   "subscope": null,
   "targetClassName": "RemotePlugin",
   "valueType": "STRING_LIST",
-  "key": "monitoring_zones_lon",
+  "key": "monitoring_zone_lon",
   "value": "public/eu_west_1,public/eu_west_2,public/us_east_1"
 }
