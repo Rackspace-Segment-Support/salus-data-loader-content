@@ -1,0 +1,11 @@
+{
+  "name": "public/us_central_2",
+  "pollerTimeout": 300,
+  "provider": "Rackspace",
+  "providerRegion": "ORD1",
+  "sourceIpAddresses": [
+    "127.0.0.1/27"
+  ],
+  "state": "ACTIVE",
+  "public": true
+}
